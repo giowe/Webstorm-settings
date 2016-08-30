@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pug" type="Jade" />
+      <mapping pattern="pòl-" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
