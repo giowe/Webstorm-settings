@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pug" type="Jade" />
+      <mapping pattern="*.json.dot" type="JSON" />
+      <mapping pattern="*.js.dot" type="JavaScript" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="fake" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
