@@ -5,6 +5,7 @@
       <mapping pattern="*.js.dot" type="JavaScript" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="fake" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
